@@ -1,11 +1,11 @@
 # Uni Preperation
 ## Room
-- [ ] Clean Room
-- [ ] Organise desk and drawerrs
-- [ ] Set whiteboard
+- [x] Clean Room
+- [x] Organise desk and drawerrs
+- [x] Set whiteboard
 
 ## Course
-- [ ] Watch lecture one
-- [ ] Map out units
-- [ ] Download two texts
+- [x] Watch lecture one
+- [x] Map out units
+- [x] Download two texts
 
